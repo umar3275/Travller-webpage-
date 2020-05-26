@@ -1,1 +1,2 @@
-# Travller-webpage-
+# Travller
+It is a single page web application. I use pre pre-built template, make some changes in it and convert it into a traveller information website. On the web I add some destinations with pictures and their details. For this I use HTML, Css and Javascript on the frontend and for the backend I use Python and build it in the Django framework. For storage of pictures and text information I use the postgreSql database. Also use pgadmin for graphical interface. 
